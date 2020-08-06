@@ -1,4 +1,4 @@
-# CSE581
+# CSE581 Project 2
 Database Projects
 
 
